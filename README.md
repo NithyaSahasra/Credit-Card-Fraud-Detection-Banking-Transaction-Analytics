@@ -170,6 +170,3 @@ Develop a model to identify fraudulent credit card transactions in real-time. To
 | `CreditCardFraudDetection_Dashboard.pbix` | Power BI interactive dashboard           |
 | `README.md`            | GitHub project documentation (this file) |
 
-## Author
-Malini Roy Choudhury - Data Analyst | Freelancer
-
